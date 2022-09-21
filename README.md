@@ -24,6 +24,5 @@ Ao baixar o repositório siga os passos abaixo:
 - **Executar o comando: npm run dev**
 - **Subir o serviço: php artisan serve**
 - **Criar o usuário: http://127.0.0.1:8000/register**
-#� �F�l�u�x�o�
-�
-�
+#Fluxo
+
